@@ -1,0 +1,16 @@
+C:\Users\larry\source\repos\Graph1\Graph1\bin\Debug\net5.0\Graph1.exe
+C:\Users\larry\source\repos\Graph1\Graph1\bin\Debug\net5.0\Graph1.deps.json
+C:\Users\larry\source\repos\Graph1\Graph1\bin\Debug\net5.0\Graph1.runtimeconfig.json
+C:\Users\larry\source\repos\Graph1\Graph1\bin\Debug\net5.0\Graph1.runtimeconfig.dev.json
+C:\Users\larry\source\repos\Graph1\Graph1\bin\Debug\net5.0\Graph1.dll
+C:\Users\larry\source\repos\Graph1\Graph1\bin\Debug\net5.0\ref\Graph1.dll
+C:\Users\larry\source\repos\Graph1\Graph1\bin\Debug\net5.0\Graph1.pdb
+C:\Users\larry\source\repos\Graph1\Graph1\obj\Debug\net5.0\Graph1.csproj.AssemblyReference.cache
+C:\Users\larry\source\repos\Graph1\Graph1\obj\Debug\net5.0\Graph1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larry\source\repos\Graph1\Graph1\obj\Debug\net5.0\Graph1.AssemblyInfoInputs.cache
+C:\Users\larry\source\repos\Graph1\Graph1\obj\Debug\net5.0\Graph1.AssemblyInfo.cs
+C:\Users\larry\source\repos\Graph1\Graph1\obj\Debug\net5.0\Graph1.csproj.CoreCompileInputs.cache
+C:\Users\larry\source\repos\Graph1\Graph1\obj\Debug\net5.0\Graph1.dll
+C:\Users\larry\source\repos\Graph1\Graph1\obj\Debug\net5.0\ref\Graph1.dll
+C:\Users\larry\source\repos\Graph1\Graph1\obj\Debug\net5.0\Graph1.pdb
+C:\Users\larry\source\repos\Graph1\Graph1\obj\Debug\net5.0\Graph1.genruntimeconfig.cache
